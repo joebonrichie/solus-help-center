@@ -1,14 +1,16 @@
 ---
 title: Android
 summary: A quick guide to getting set up for Android development on Solus
-date: 2022-12-16
+date: 2023-05-20
 ---
 
 # Building Android™ on Solus
 
 This article covers building the [Android Open Source Project](https://www.android.com/) (AOSP) on Solus, the instructions can also be tweaked to also install forks of Android such as [LineageOS](https://lineageos.org/).
 
+:::note
 Note that Solus is not an officially supported Linux distribution for building Android.
+:::
 
 ## Prerequisites
 
