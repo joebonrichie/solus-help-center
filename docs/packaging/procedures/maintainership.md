@@ -13,7 +13,7 @@ The role of a maintainer is to update package(s) on a regular basis, while follo
 Each new package which is going to land in the Solus repository must have one or more maintainers. These individuals commit to:
 
 - Update the package reasonably regularly, unless there are valid reasons to hold it back
-- Ensure the [packaging file](/articles/packaging/package.yml/en) adheres to the Solus [standards](/articles/packaging/packaging-practices/en)
+- Ensure the [packaging file](/docs/packaging/package.yml) adheres to the Solus [standards](/articles/packaging/packaging-practices/en)
 - Ensure the application or library is consistent with the Operating System aesthetics, file system conventions and the Solus philosophy in general
 
 On the Solus side however, the community must not forget that maintainers are volunteers, which may or may not have a technical background. More experiencied users are to engage newcoming maintainers in a welcoming manner, e.g. by listing their errors and inviting them to fix them. (More on this in the [community guidelines](/articles/contributing/community-guidelines/en.md#development--issue-trackers))
@@ -46,6 +46,6 @@ The contact information section is a YAML list. If needed, more elements may be 
 This file is used to indicate responsibility for the maintenance of this package. Individuals on this list should be the sole modifiers of the package, excluding cases where the Solus Team may need to perform necessary rebuilds, upgrades, or security fixes. This list should not be used for any direct contact usage. If you believe this package requires a package update, follow documentation from https://getsol.us/articles/packaging/request-a-package-update/en/. In the event this package no longer becomes sufficiently maintained, Core Team reserves the right to request a new maintainer or remove this package from the repository.
 
 - Name Surname
-  - IRC: REPLACEME
+  - Matrix: REPLACEME
   - Email: REPLACEME
 ```
