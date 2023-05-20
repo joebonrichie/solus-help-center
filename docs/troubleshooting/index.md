@@ -1,10 +1,10 @@
 ---
-title: Start Here
+title: Troubleshooting
 summary: Basic troubleshooting for some of the most common Solus problems.
 date: 2022-12-16
 ---
 
-# Start Here
+# Troubleshooting Common Issues
 
 This guide provides some basic troubleshooting instructions for when you have an issue in Solus. Before reporting bugs, it is important to validate your Solus installation doesn't suffer from missing files or disk corruption. Also ensuring the system is fully up to date as the bug may have already been fixed.
 
