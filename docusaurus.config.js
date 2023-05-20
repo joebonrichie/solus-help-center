@@ -76,6 +76,12 @@ const config = {
             position: 'left',
             label: 'Help Center Home',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'packagingSidebar',
+            position: 'left',
+            label: 'Packaging',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/getsolus',
